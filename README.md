@@ -1,6 +1,6 @@
 ### Welcome to my Github! 
 
-Hi! My name is Thomas Clark, I am a '22 at Dartmouth College, I use he/him/his pronouns, and this is my github repo. Its small, but always growing. Feel free to reach out about open source collaborations or any questions about code you want to borrow! Sadly, a lot of my code and projects from classes is private for honor code reasons, but hopefully one day it will be on here as well
+Hi! My name is Thomas Clark, I am a '22 at Dartmouth College, I use he/him/his pronouns, and this is my github repo. Its small, but always growing. Feel free to reach out about open source collaborations or any questions about code you want to borrow! 
 
 * 📚 I’m currently studying computer engineering at Dartmouth. Working on a 4-year BA+BE
 * 🌱 I’m currently working on learning C++ and taking coursese in the more abstract parts of computer science 
