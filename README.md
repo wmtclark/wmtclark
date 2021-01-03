@@ -6,6 +6,6 @@ Hi! My name is Thomas Clark, I am a '22 at Dartmouth College, I use he/him/his p
 * 🌱 I’m currently working on learning C++ and taking coursese in the more abstract parts of computer science 
 * 🤔 I’m looking for help getting involved in open-source. If you have a cool project, feel free to reach out! 
 * I love meeting new people and learning more about the developer community
-* 💬 Ask me about C, backend, predicate logic, teaching engineering, bringing summer camp energy to every team project, my dog
+* 💬 Ask me about C, backend programming, discrete math, teaching engineering, or bringing summer camp energy to every team project
 * 📫 email me @ [wmtclark@gmail.com](mailto:wmtclark@gmail.com)
 
