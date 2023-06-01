@@ -1,10 +1,9 @@
 ### Welcome to my Github! 
 
-Hi! My name is Thomas Clark, I am a '22 at Dartmouth College, I use he/him/his pronouns, and this is my github repo. Its small, but always growing. Feel free to reach out about open source collaborations or any questions about code you want to borrow! 
+Hi! My name is Thomas Clark, I just graduate as a '22 from Dartmouth College, I use he/him/his pronouns, and this is my github repo. Its small, but always growing. Feel free to reach out about open source collaborations or any questions about code you want to borrow! 
 
-* 📚 I’m currently studying computer engineering at Dartmouth. Working on a 4-year BA+BE
-* 🌱 I’m currently working on learning C++ and taking coursese in the more abstract parts of computer science 
-* I love meeting new people and learning more about the developer community
-* 💬 Ask me about C, backend programming, discrete math, teaching engineering, or bringing summer camp energy to every team project
+* 🍎 I currently work on radio frequency system integration at Apple
+* 📚 I studied computer engineering at Dartmouth. Gradutated with BA and BE. 
+* 💬 Ask me about C, backend programming, algorithm design, or STEM education
 * 📫 email me @ [wmtclark@gmail.com](mailto:wmtclark@gmail.com)
 
